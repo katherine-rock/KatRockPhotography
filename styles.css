@@ -154,7 +154,8 @@ footer {
 
     img {
         margin: 1.5rem;
-        max-height: 80vh;
+        /* max-height: 80vh; */
+        max-width: 40%;
     }
 
     .footermenu {
